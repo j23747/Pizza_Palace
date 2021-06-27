@@ -1,4 +1,7 @@
-    @font-face {
+   /* Importing Google Fonts */
+   @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+   @font-face {
         src: url("../images/static/DancingScript-Bold.ttf");
         font-family: lekam;
     }
@@ -229,4 +232,6 @@ body {
     }
     .row test {
         color: red;
+        font-size: medium;
+        text-align: center;
     }
