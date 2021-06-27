@@ -1,0 +1,232 @@
+    @font-face {
+        src: url("../images/static/DancingScript-Bold.ttf");
+        font-family: lekam;
+    }
+    
+    body {
+        font-family: sans-serif;
+        box-sizing: border-box;
+    }
+    
+    .logo {
+        width: 40px;
+    }
+    
+    h3,
+    h2,
+    h4 {
+        font-family: lekam;
+        color: rgba(226, 125, 58, 1);
+    }
+    
+    #head {
+        background-image: url("../images/david-benes-zsRhTW3qrmo-unsplash.jpg");
+        background-size: cover;
+        height: 100vh;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    
+    .card img {
+        width: 300px;
+    }
+    
+    .card {
+        width: 300PX;
+    }
+    
+    .land {
+        color: white;
+        /* margin-top: 60%; */
+        text-align: center;
+        border: 2px solid #fff;
+        background-color: rgba(19, 15, 27, 0.4);
+        padding: 20px;
+        height: 92vh;
+        width: 100%;
+    }
+    
+    .land2 {
+        margin-top: 40%;
+    }
+    
+    .land p {
+        font-size: 60px;
+        font-family: lekam;
+        color: rgba(226, 125, 58.1);
+    }
+    
+    .p1 {
+        font-family: "lekam";
+        font-size: xx-large;
+    }
+    
+    .about-meso {
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    .about .card {
+        width: 200px;
+    }
+    
+    #about {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    
+    #orde {
+        background-image: url("../images/david-benes-zsRhTW3qrmo-unsplash.jpg");
+        background-size: cover;
+        height: 100vh;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    
+    #order .jumbotron {
+        margin-top: 10px;
+        background: rgba(19, 15, 27, 0.9);
+        color: #fff;
+        height: 700px;
+    }
+    
+    .order h3 {
+        font-family: lekam;
+        color: rgba(226, 125, 58, 1);
+    }
+    
+    .jumbotron {
+        background-color: rgba(19, 15, 27, 0.9);
+        color: #fff;
+        text-align: center;
+    }
+    
+    #yourorder,
+    #deliver,
+    #pick,
+    #yourdetails,
+    #pickUpConfirmation,
+    #delivery {
+        display: none;
+    }
+    
+    .top {
+        text-align: left;
+        margin-top: 29%;
+        margin-left: 50%;
+    }
+    
+    #product img {
+        width: 100%;
+    }
+    
+    .list-group-item:first-child {
+        border-top-right-radius: 0;
+        border-top-left-radius: 0;
+    }
+    
+    .list-group-item:last-child {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+    /* Remove border and add padding to thumbnails */
+    
+    .thumbnail {
+        padding: 0 0 15px 0;
+        border: none;
+        border-radius: 0;
+    }
+    
+    .thumbnail p {
+        margin-top: 15px;
+        color: #555;
+    }
+    /* Black buttons with extra padding and without rounded borders */
+    
+    .btn {
+        padding: 10px 20px;
+        background-color: #333;
+        color: #f1f1f1;
+        border-radius: 0;
+        transition: .2s;
+    }
+    /* On hover, the color of .btn will transition to white with black text */
+    
+    .btn:hover,
+    .btn:focus {
+        border: 1px solid #333;
+        background-color: #fff;
+        color: #000;
+    }
+    
+    .modal-header,
+    h4,
+    .close {
+        background-color: #333;
+        color: #fff !important;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .modal-header,
+    .modal-body {
+        padding: 40px 50px;
+    }
+    
+    .order h5,
+    h3 {
+        text-align: center;
+    }
+    
+    #yourorder {
+        text-align: center;
+    }
+    
+    .thumbnail {
+        background: white;
+    }
+    
+    table td {
+        text-align: center;
+    }
+    
+    #bbq {
+        width: 50px;
+    }
+    
+    nav a {
+        text-transform: uppercase;
+        color: #fff;
+    }
+    
+    nav {
+        background-color: rgba(19, 15, 27, 0.9);
+        position: fixed;
+    }
+    /* 
+body {
+    box-sizing: border-box;
+} */
+    
+    @media only screen and (max-width: 600px) {
+        body {
+            box-sizing: border-box;
+        }
+        .top {
+            display: inline;
+            margin-top: 0%;
+            font-size: small;
+            margin-bottom: 0px;
+        }
+        .place {
+            margin-bottom: 80%;
+            height: 50px;
+            font-size: x-small;
+        }
+        .jumbotron {
+            height: 100vh;
+        }
+    }
+    .row test {
+        color: red;
+    }
