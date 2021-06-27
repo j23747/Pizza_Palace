@@ -1,6 +1,5 @@
 # Pizza Palace
-#### A website forK_PIZZA WORLD, 19th/10/2020
-#### By JOSPHAT MWANIA**
+#### By JOSPHAT MWANIA
 ## Description
 
 This a website that tell potential pizza client more about Pizza Palace  and the products they produce. This website also bridge the gap between pizza lovers and Pizza Palace
@@ -14,6 +13,9 @@ This a website that tell potential pizza client more about Pizza Palace  and the
 - this will take you to PIZZA PALACE.
 - place order then will also deliver for you if you what to.
 - click ORDER and your are ready to enjoy delicious pizza with your farmily
+
+## Live Link on Github Pages
+
 
 
 ## Technologies Used
@@ -30,8 +32,7 @@ At the moment there are no bugs.
 
 
 ## FOR INQUIRIES
-for any inquiries reach me on email: josphatmwania237@gmail.com.
-
+For any inquiries reach me on email: josphatmwania237@gmail.com.
 
 
 ## [License]()
