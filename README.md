@@ -7,14 +7,14 @@ This a website that tell potential pizza client more about Pizza Palace  and the
 
  
 
-## HOW TO USE
+## Installation
+- To get a veiw of the front-end UI, do the following:
+- Clone the repository into your local environment:  
+- git clone https://github.com/josphatmwania/Pizza_Palace 
+- cd Pizza_Palace 
+- Run index.html file On your browser. 
 
-- Visit the website at https://github.com/josphatmwania/Pizza_Palace 
-- this will take you to PIZZA PALACE.
-- place order then will also deliver for you if you what to.
-- click ORDER and your are ready to enjoy delicious pizza with your farmily
-
-## Live Link on Github Pages
+## UI link to gh-pages:
 
 
 
@@ -28,7 +28,7 @@ This project is written in:
 
 ## Bugs
 
-At the moment there are no bugs.
+At the moment there are no known bugs.
 
 
 ## FOR INQUIRIES
