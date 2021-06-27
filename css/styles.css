@@ -19,9 +19,9 @@
     h2,
     h4 {
         font-family: lekam;
-        color: rgba(226, 125, 58, 1);
+        color: rgb(194, 130, 67);
     }
-    
+
     #head {
         background-image: url("../images/david-benes-zsRhTW3qrmo-unsplash.jpg");
         background-size: cover;
@@ -67,8 +67,9 @@
     .about-meso {
         text-align: center;
         margin-top: 5%;
+
     }
-    
+   
     .about .card {
         width: 200px;
     }
