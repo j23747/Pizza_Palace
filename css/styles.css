@@ -244,9 +244,11 @@ body {
 
    .footer {
        padding-top: 35px;
-       height: 100vh;
+       height: 40vh;
        text-align: center;
        background-color: rgb(141, 77, 77);
  
     }
-}
+    #contact {
+        background-color: red;
+    }
