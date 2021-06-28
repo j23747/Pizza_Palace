@@ -16,7 +16,7 @@ function placeOrder() {
         }
     );
 
-
+/* Defining the Price in sizes */
 
     var sizePrice;
     if (flavor === "Bbq Beef" || flavor === "Chicken Tikka" || flavor === "Hawaiian") {
