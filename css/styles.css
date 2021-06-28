@@ -243,8 +243,10 @@ body {
     }
 
    .footer {
-    align-items: center;
-    p{
-        text-align: center;
+       padding-top: 35px;
+       height: 100vh;
+       text-align: center;
+       background-color: rgb(141, 77, 77);
+ 
     }
 }
