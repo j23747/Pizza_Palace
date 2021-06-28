@@ -241,3 +241,10 @@ body {
     navbar-nav {
         align-items: flex-end;
     }
+
+   .footer {
+    align-items: center;
+    p{
+        text-align: center;
+    }
+}
