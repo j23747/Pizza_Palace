@@ -15,7 +15,7 @@ This a website that tell potential pizza client more about Pizza Palace  and the
 - Run index.html file On your browser. 
 
 ## UI link to gh-pages:
-[Link] (https://josphatmwania.github.io/Pizza_Palace/)
+[Link] (LiveLink:https://josphatmwania.github.io/Pizza_Palace/)
 
 
 ## Technologies Used
